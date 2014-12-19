@@ -1,0 +1,5 @@
+
+
+
+class Module
+  "use strict"
